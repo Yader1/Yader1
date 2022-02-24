@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yader Campbell</h1>
-<h3 align="center">Mobile developer in training👨‍💻</h3>
+<h1 align="center">Saludos 👋, Mi nombre es Yader Oneall Mejía Campbell</h1>
+<h3 align="center">Soy desarrollador móvil👨‍💻</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="400px"  />
 
-* 💬 I am a mobile & backend developer and other skills
-* 🌱 Skills: **Java💛, C++💙, Ionic💜, ASP.Net ❤️**
-* 👨‍💻 #SelfTaught Developer
-* 📱 Mobile App Developer ❤️Android & Backed Developer 💻
-* 📝 I'm a lover of developer APIs in ASP.Net framework ❤️
-* 💬 Ask me about Android Dev & Open Source & UI Design
-* 👯 I’m looking to collaborate on any Android Projects or any Ionic Project 
-* 🥅 2021 Goals: Contribute more to Open Source projects
-* 🌱 I love to learn new things and I'm ready to help others
-
-**Skills 🚀**
+* 💬 Soy desarrollador móvil 📱 con certificación para desarrollo de aplicaciones en Android 12, Desarrollo hibrido, programador Backend, y otras habilidades con certificación en programación con Arduino, Marketing Digital y otros.
+* 🌱 Tecnologías: **Java💛, C+❤️, Ioni💙,Kotli💜, ASP.Net❤️, Flutter💙, Php🚀, SQL📝**
+<br>👨‍💻 #Ingeniero en sistemas 💻
+* 📝 Soy un amante al desarrollo de API´s desarrolladas en el marco ASP.Net ❤️
+* 👯 Estoy buscando colaborar en cualquier proyecto de desarrollo movil o backend 💬 
+* 🌱 Me encanta aprender cosas nuevas y estoy dispuesto a ayudar a los demás.
+ 
+**Algunas Habilidades 🚀**
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-F6891F?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
@@ -25,7 +22,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
-<h3 align="center">GITHUB STATS<hr/></h3>
+<h3 align="center">ESTADÍSTICAS DE GITHUB<hr/></h3>
 
 <p align="center">
   <a href="https://github.com/Yader1">
