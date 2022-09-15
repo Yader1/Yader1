@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="400px"  />
 
 * 💬 Soy desarrollador móvil 📱 con certificación para desarrollo de aplicaciones en Android 12, Desarrollo hibrido, programador Backend, y otras habilidades con certificación en programación con Arduino, Marketing Digital y otros.
-* 🌱 Tecnologías: **Java💛, C++❤️, Ioni💙,Kotli💜, ASP.Net❤️, Flutter💙, Php🚀, SQL📝**
+* 🌱 Tecnologías: **Java💛, C++❤️, Ionic💙,Kotli💜, ASP.Net❤️, Flutter💙, Php🚀, SQL📝**
 <br>👨‍💻 #Ingeniero en sistemas 💻
 * 📝 Soy un amante al desarrollo de API´s desarrolladas en el marco ASP.Net ❤️
 * 👯 Estoy buscando colaborar en cualquier proyecto de desarrollo movil o backend 💬 
